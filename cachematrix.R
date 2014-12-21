@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## A pair of functions for caching a matrix
+## and finding and caching its inverse.
 
 ## This function creates an object which contains a matrix, 
 ## the inverse of that matrix (once known), 
